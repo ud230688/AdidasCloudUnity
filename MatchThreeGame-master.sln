@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A89F0FD6-DDCB-6BDF-5F0B-536953F4DF4A}") = "MatchThreeGame-master", "Assembly-CSharp-firstpass.csproj", "{8D763C01-C6CE-E1CE-56F6-9A789DC2DCEF}"
+EndProject
+Project("{A89F0FD6-DDCB-6BDF-5F0B-536953F4DF4A}") = "MatchThreeGame-master", "Assembly-CSharp.csproj", "{AD05A0DC-852C-8997-72E3-228FEAAF6619}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D763C01-C6CE-E1CE-56F6-9A789DC2DCEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D763C01-C6CE-E1CE-56F6-9A789DC2DCEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D763C01-C6CE-E1CE-56F6-9A789DC2DCEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D763C01-C6CE-E1CE-56F6-9A789DC2DCEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD05A0DC-852C-8997-72E3-228FEAAF6619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD05A0DC-852C-8997-72E3-228FEAAF6619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD05A0DC-852C-8997-72E3-228FEAAF6619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD05A0DC-852C-8997-72E3-228FEAAF6619}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
